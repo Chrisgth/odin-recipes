@@ -1,0 +1,23 @@
+[33mcommit 2083703dc9277802ab5252df50334de4bee2b0de[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: chrisgth <ksemkus00@gmail.com>
+Date:   Sat Mar 5 08:43:03 2022 +0200
+
+    Added pizza.html and linked it in index.html
+
+[33mcommit a342c0a834fec44bbaeffa0623b333531cb51809[m
+Author: chrisgth <ksemkus00@gmail.com>
+Date:   Sat Mar 5 08:37:51 2022 +0200
+
+    Added index.html with boilerplate
+
+[33mcommit 5bbc192c0e4ceb631c5fcfd2755caccb0253b726[m
+Author: chrisgth <ksemkus00@gmail.com>
+Date:   Sat Mar 5 08:34:42 2022 +0200
+
+    Edited
+
+[33mcommit 6f5735f15867334ee036280a9a13588dec844788[m
+Author: Chrisgth <87135602+Chrisgth@users.noreply.github.com>
+Date:   Sat Mar 5 08:30:35 2022 +0200
+
+    Initial commit
